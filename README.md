@@ -1,7 +1,7 @@
 # 🔍 Sobre mim
 
 Olá 👋, me chamo Pedro Wagner<br>
-🎉 Bem-vindo ao meu perfil no Github!<br><br>
+Bem-vindo ao meu perfil no Github! 🎉<br><br>
 😻 Apaixonado por tecnologia e por desenvolver soluções <br>
 🎓 Graduando do Curso de Sistemas e Mídias Digitais / UFC <br>
 💻 Desenvolvedor Front End | Dev Quest - Dev em Dobro <br>
