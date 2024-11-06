@@ -23,6 +23,9 @@ Fico muito feliz com sua visita! Fique a vontade para explorar meu trabalho e en
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](./assets/images/html_small.svg) ![CSS3](./assets/images/css_small.svg) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<br>
+
+# 📊 GitHub Stats
 <a href="https://github.com/pedrowfilho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrowfilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowfilho&layout=compact&langs_count=6&theme=tokyonight"/>
