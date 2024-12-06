@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil no Github! 🎉<br><br>
 😻 Apaixonado por tecnologia e por desenvolver soluções <br>
 🎓 Graduando do Curso de Sistemas e Mídias Digitais / UFC <br>
 💻 Desenvolvedor Front End | Dev Quest - Dev em Dobro <br>
-⚽ Amante de futebol e do meu clube | CSC 💜 Time do Povo<br>
+⚽ Amante de futebol e do meu Clube | CSC 💜 Time do Povo<br>
 ⚽ Gosto de ir ao estádio nas horas vagas<br><br>
 Fico muito feliz com sua visita! Fique a vontade para explorar meu trabalho e entrar em contato.
 
